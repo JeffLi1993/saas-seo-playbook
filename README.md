@@ -4,7 +4,7 @@
 
 这本书不把 SEO 写成零散技巧，而是把它当成一套长期竞争的系统工程：产品承接搜索需求，内容提供信息增量，技术保证页面可见，外链建立站外信任。
 
-## 当前预览
+## 章节目录
 
 - [全书大纲](./OUTLINE.md)
 
@@ -63,6 +63,9 @@
 ├── LICENSE             # MIT 开源许可证
 ├── OUTLINE.md          # 全书大纲
 ├── chapters/           # 各章正文
+│   ├── 00-01-why-this-book.md
+│   ├── 00-02-modern-seo-system.md
+│   └── 01-seo-is-a-system.md
 └── images/             # 正文插图与图片清单
 ```
 
