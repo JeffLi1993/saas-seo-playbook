@@ -64,8 +64,7 @@
 ├── OUTLINE.md          # 全书大纲
 ├── chapters/           # 各章正文
 │   ├── 00-01-why-this-book.md
-│   ├── 00-02-modern-seo-system.md
-│   └── 01-seo-is-a-system.md
+│   └── 00-02-modern-seo-system.md
 └── images/             # 正文插图与图片清单
 ```
 
