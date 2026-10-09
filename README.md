@@ -15,8 +15,8 @@
 
 #### 🧠 第一部分：认知打底 — 先把 SEO 想对
 
-- 第 1 章 SEO 不是排名技巧，是一套增长系统
-- 第 2 章 找到你的 SEO 理想用户画像
+- [第 1 章 SEO 不是排名技巧，是一套增长系统](./chapters/01-seo-is-a-system.md)
+- [第 2 章 找到你的 SEO 理想用户画像](./chapters/02-seo-ideal-customer-profile.md)
 - 第 3 章 搜索意图与 Last-Click
 - 第 4 章 寻找并看懂真正的 SEO 竞争对手
 
@@ -64,7 +64,9 @@
 ├── OUTLINE.md          # 全书大纲
 ├── chapters/           # 各章正文
 │   ├── 00-01-why-this-book.md
-│   └── 00-02-modern-seo-system.md
+│   ├── 00-02-modern-seo-system.md
+│   ├── 01-seo-is-a-system.md
+│   └── 02-seo-ideal-customer-profile.md
 └── images/             # 正文插图与图片清单
 ```
 
