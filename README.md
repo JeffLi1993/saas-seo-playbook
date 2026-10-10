@@ -17,7 +17,7 @@
 
 - [第 1 章 SEO 不是排名技巧，是一套增长系统](./chapters/01-seo-is-a-system.md)
 - [第 2 章 找到你的 SEO 理想用户画像](./chapters/02-seo-ideal-customer-profile.md)
-- 第 3 章 搜索意图与 Last-Click
+- [第 3 章 搜索意图与 Last-Click](./chapters/03-search-intent-and-last-click.md)
 - 第 4 章 寻找并看懂真正的 SEO 竞争对手
 
 #### 🗺️ 第二部分：站点规划 — 先定大纲和章节，再写文章
@@ -66,7 +66,8 @@
 │   ├── 00-01-why-this-book.md
 │   ├── 00-02-modern-seo-system.md
 │   ├── 01-seo-is-a-system.md
-│   └── 02-seo-ideal-customer-profile.md
+│   ├── 02-seo-ideal-customer-profile.md
+│   └── 03-search-intent-and-last-click.md
 └── images/             # 正文插图与图片清单
 ```
 
