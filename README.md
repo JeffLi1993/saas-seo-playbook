@@ -15,10 +15,12 @@
 
 #### 🧠 第一部分：认知打底 — 先把 SEO 想对
 
+这一部分先把 SEO 的底层认知理顺：SEO 不是单点排名技巧，而是一套围绕用户需求展开的增长系统。先明确谁在搜、为什么搜、搜索后想完成什么任务，再通过真正的 SEO 竞争对手判断这个方向能不能做、该从哪里切入。
+
 - [第 1 章 SEO 不是排名技巧，是一套增长系统](./chapters/01-seo-is-a-system.md)
 - [第 2 章 找到你的 SEO 理想用户画像](./chapters/02-seo-ideal-customer-profile.md)
 - [第 3 章 搜索意图与 Last-Click](./chapters/03-search-intent-and-last-click.md)
-- 第 4 章 寻找并看懂真正的 SEO 竞争对手
+- [第 4 章 寻找并真正分析懂的 SEO 竞争对手](./chapters/04-find-and-analyze-seo-competitors.md)
 
 #### 🗺️ 第二部分：站点规划 — 先定大纲和章节，再写文章
 
@@ -67,7 +69,8 @@
 │   ├── 00-02-modern-seo-system.md
 │   ├── 01-seo-is-a-system.md
 │   ├── 02-seo-ideal-customer-profile.md
-│   └── 03-search-intent-and-last-click.md
+│   ├── 03-search-intent-and-last-click.md
+│   └── 04-find-and-analyze-seo-competitors.md
 └── images/             # 正文插图与图片清单
 ```
 
