@@ -22,7 +22,7 @@
 
 #### 🗺️ 第二部分：站点规划 — 先定大纲和章节，再写文章
 
-- 第 5 章 从关键词研究到 Topic Map
+- [第 5 章 从关键词研究到 Topic Map](./chapters/05-keyword-research-to-topic-map.md)
 - 第 6 章 Keyword-to-Page：每个意图由谁承接
 - 第 7 章 URL Structure：把网站规划成一本书
 
@@ -68,7 +68,8 @@
 │   ├── 01-seo-is-a-system.md
 │   ├── 02-seo-ideal-customer-profile.md
 │   ├── 03-search-intent-and-last-click.md
-│   └── 04-find-and-analyze-seo-competitors.md
+│   ├── 04-find-and-analyze-seo-competitors.md
+│   └── 05-keyword-research-to-topic-map.md
 └── images/             # 正文插图与图片清单
 ```
 
