@@ -24,7 +24,7 @@
 
 - [第 5 章 从关键词研究到 Topic Map](./chapters/05-keyword-research-to-topic-map.md)
 - [第 6 章 Keyword-to-Page：每个意图由谁承接](./chapters/06-keyword-to-page.md)
-- 第 7 章 URL Structure：把网站规划成一本书
+- [第 7 章 URL Structure：把网站规划成一本书](./chapters/07-url-structure.md)
 
 #### 🏗️ 第三部分：站内基建 — 让 Google 能看见、看懂、收录
 
@@ -70,7 +70,8 @@
 │   ├── 03-search-intent-and-last-click.md
 │   ├── 04-find-and-analyze-seo-competitors.md
 │   ├── 05-keyword-research-to-topic-map.md
-│   └── 06-keyword-to-page.md
+│   ├── 06-keyword-to-page.md
+│   └── 07-url-structure.md
 └── images/             # 正文插图与图片清单
 ```
 
