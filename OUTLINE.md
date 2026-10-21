@@ -64,10 +64,11 @@
 
 ### 第 6 章 Keyword-to-Page：每个意图由谁承接
 
-- 一个主要搜索意图对应一个主要页面
-- 什么时候合并，什么时候拆页
-- 关键词蚕食的判断与处理
-- 页面 Owner 表：关键词、意图、URL、页型、CTA
+- 一个 Keyword Cluster 对应一个主要页面
+- 一个词簇只确定一个 Top Keyword 和 Page Owner
+- 如何判断关键词是不是同一个 Cluster
+- 通用大词页面与细分子页面如何同时规划
+- Page Owner 表：关键词、意图、URL、页型、CTA
 
 ### 第 7 章 URL Structure：把网站规划成一本书
 
