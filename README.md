@@ -28,10 +28,10 @@
 
 #### 🏗️ 第三部分：站内基建 — 让 Google 能看见、看懂、收录
 
-- 第 8 章 SEO 基建：从第一天搭好地基
-- 第 9 章 On-Page SEO：从主关键词到发布检查
-- 第 10 章 Technical SEO：真实踩坑与修复思路
-- 第 11 章 页面体验与 Core Web Vitals
+- [第 8 章 SEO 基建：从第一天搭好地基](./chapters/08-seo-foundation.md)
+- [第 9 章 On-Page SEO：从主关键词到发布检查](./chapters/09-on-page-seo.md)
+- [第 10 章 Technical SEO：真实踩坑与修复思路](./chapters/10-technical-seo-troubleshooting.md)
+- [第 11 章 页面体验与 Core Web Vitals](./chapters/11-page-experience-core-web-vitals.md)
 
 #### 📝 第四部分：内容生产 — 不是写文章，是交付结果
 
@@ -71,7 +71,11 @@
 │   ├── 04-find-and-analyze-seo-competitors.md
 │   ├── 05-keyword-research-to-topic-map.md
 │   ├── 06-keyword-to-page.md
-│   └── 07-url-structure.md
+│   ├── 07-url-structure.md
+│   ├── 08-seo-foundation.md
+│   ├── 09-on-page-seo.md
+│   ├── 10-technical-seo-troubleshooting.md
+│   └── 11-page-experience-core-web-vitals.md
 └── images/             # 正文插图与图片清单
 ```
 
