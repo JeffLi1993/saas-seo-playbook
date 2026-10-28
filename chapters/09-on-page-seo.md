@@ -420,7 +420,7 @@ Schema 要根据页面真实内容和 Google 当前支持的搜索展示类型�
 
 这样生成的日语内容，通常比先机器翻译、再往里面塞关键词自然得多，也更接近当地用户的搜索表达。
 
-> [配图建议｜图 9-8] 多语言 SEO 本地化流程。对比两条路径：错误路径是英文全文直接机器翻译；推荐路径是先把英文 Top Keyword 映射为日语 Top Keyword，再围绕日语主词本地化 Title、Description、正文、图片 Alt 和 CTA，最后人工 Review。目标文件：`../images/09-08-multilingual-keyword-localization.png`。
+![图 9-8：先映射本地主词，再完成多语言 SEO 本地化](../images/09-08-multilingual-keyword-localization.png)
 
 可以直接把下面这段要求交给 AI：
 
