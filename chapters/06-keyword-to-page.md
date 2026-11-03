@@ -283,19 +283,7 @@ Keyword-to-Page 最终应该沉淀成一张可以持续维护的 Page Owner 表�
 
 下一章再把这些页面放进 `/features`、`/tools`、`/blog`、`/compare` 等目录，形成完整的 URL Structure。
 
-## 八、本章执行清单
-
-- [ ] 每个 Keyword Cluster 是否只保留了一个搜索量最高的 Top Keyword？
-- [ ] 每个 Keyword Cluster 是否有唯一的 Page Owner？
-- [ ] 是否避免了机械地一词一页？
-- [ ] 同一个 Keyword Cluster 是否避免建立多个重复页面？
-- [ ] 细分需求达到优先级后，是否建立了独立的 Keyword Cluster 和 Page Owner？
-- [ ] 页面类型是否符合 Google 当前展示的主流形态？
-- [ ] SEO 必做型页面是否优先确定？
-- [ ] 新建页面前，是否检查了现有页面能不能承接？
-- [ ] Page Owner 表是否记录了页面状态和下一步动作？
-
-## 九、小结
+## 八、小结
 
 Keyword-to-Page 不是把每个关键词机械地分配给一个新页面。
 

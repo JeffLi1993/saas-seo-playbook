@@ -36,7 +36,7 @@
 #### 📝 第四部分：内容生产 — 不是写文章，是交付结果
 
 - [第 12 章 关键词优先级：先做什么，后做什么](./chapters/12-keyword-priority.md)
-- 第 13 章 SERP Research：先看 Google 已经选了什么
+- [第 13 章 SERP Research：先看 Google 已经选了什么](./chapters/13-serp-research.md)
 - 第 14 章 工具页 SEO 内容规范
 - 第 15 章 博客、教程、榜单、对比与替代页
 - 第 16 章 信息增量与 E-E-A-T
@@ -76,7 +76,8 @@
 │   ├── 09-on-page-seo.md
 │   ├── 10-technical-seo-troubleshooting.md
 │   ├── 11-page-experience-core-web-vitals.md
-│   └── 12-keyword-priority.md
+│   ├── 12-keyword-priority.md
+│   └── 13-serp-research.md
 └── images/             # 正文插图与图片清单
 ```
 
