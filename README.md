@@ -44,7 +44,7 @@
 
 #### 🔗 第五部分：站外信任 — 让外部世界为你投票
 
-- 第 18 章 外链必知必会
+- [第 18 章 外链必知必会](./chapters/18-backlinks-basics.md)
 - 第 19 章 AI 导航站、目录站与评测站的 0→1
 - 第 20 章 可持续外链打法
 
@@ -81,7 +81,8 @@
 │   ├── 14-tool-page-seo-content.md
 │   ├── 15-blog-content-formats.md
 │   ├── 16-information-gain-and-eeat.md
-│   └── 17-internal-links.md
+│   ├── 17-internal-links.md
+│   └── 18-backlinks-basics.md
 └── images/             # 正文插图与图片清单
 ```
 
