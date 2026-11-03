@@ -52,7 +52,7 @@
 
 - [第 21 章 pSEO 的双刃剑](./chapters/21-programmatic-seo.md)
 - [第 22 章 从收录到转化：SEO 数据复盘](./chapters/22-seo-data-review.md)
-- 第 23 章 AI 搜索时代的 SEO 与 GEO
+- [第 23 章 AI 搜索时代的 SEO 与 GEO](./chapters/23-seo-and-geo.md)
 
 ## 目录结构
 
@@ -85,7 +85,8 @@
 │   ├── 19-ai-directories-and-launch-platforms.md
 │   ├── 20-sustainable-link-building.md
 │   ├── 21-programmatic-seo.md
-│   └── 22-seo-data-review.md
+│   ├── 22-seo-data-review.md
+│   └── 23-seo-and-geo.md
 └── images/             # 正文插图与图片清单
 ```
 
