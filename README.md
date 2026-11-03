@@ -45,7 +45,7 @@
 #### 🔗 第五部分：站外信任 — 让外部世界为你投票
 
 - [第 18 章 外链必知必会](./chapters/18-backlinks-basics.md)
-- 第 19 章 AI 导航站、目录站与评测站的 0→1
+- [第 19 章 AI 导航站、目录站与评测站的 0→1](./chapters/19-ai-directories-and-launch-platforms.md)
 - 第 20 章 可持续外链打法
 
 #### 📈 第六部分：规模化与增长复盘
@@ -82,7 +82,8 @@
 │   ├── 15-blog-content-formats.md
 │   ├── 16-information-gain-and-eeat.md
 │   ├── 17-internal-links.md
-│   └── 18-backlinks-basics.md
+│   ├── 18-backlinks-basics.md
+│   └── 19-ai-directories-and-launch-platforms.md
 └── images/             # 正文插图与图片清单
 ```
 
