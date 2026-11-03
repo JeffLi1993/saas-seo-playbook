@@ -139,11 +139,13 @@
 
 ### 第 14 章 工具页 SEO 内容规范
 
-- 工具页先让用户完成任务
-- Hero、输入区、结果区、示例、How It Works、FAQ
-- 免费试用、登录墙与抓取内容的平衡
-- 工具页如何提供信息增量
-- SoftwareApplication、FAQ 与 Breadcrumb Schema
+- Hero 直接展示工具功能区，让用户操作并拿到结果
+- 从 Templates / Styles 到 CTA 的推荐模块模板与取舍
+- 对齐 SERP 基础内容，差异化能力前置
+- Hero、场景、功能亮点和 FAQ 的具体文案写法
+- How to 使用当前工具的真实步骤与截图
+- Testimonials 在积累真实用户反馈后再展示
+- 先跑通功能，再围绕真实能力补齐内容
 
 ### 第 15 章 博客、教程、榜单、对比与替代页
 
