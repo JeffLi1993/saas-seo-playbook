@@ -50,10 +50,9 @@
 
 #### 📈 第六部分：规模化与增长复盘
 
-- 第 21 章 pSEO 的双刃剑
-- 第 22 章 国际化 SEO
-- 第 23 章 从收录到转化：SEO 数据复盘
-- 第 24 章 AI 搜索时代的 SEO 与 GEO
+- [第 21 章 pSEO 的双刃剑](./chapters/21-programmatic-seo.md)
+- 第 22 章 从收录到转化：SEO 数据复盘
+- 第 23 章 AI 搜索时代的 SEO 与 GEO
 
 ## 目录结构
 
@@ -84,7 +83,8 @@
 │   ├── 17-internal-links.md
 │   ├── 18-backlinks-basics.md
 │   ├── 19-ai-directories-and-launch-platforms.md
-│   └── 20-sustainable-link-building.md
+│   ├── 20-sustainable-link-building.md
+│   └── 21-programmatic-seo.md
 └── images/             # 正文插图与图片清单
 ```
 

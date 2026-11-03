@@ -438,7 +438,7 @@ Schema 要根据页面真实内容和 Google 当前支持的搜索展示类型�
 5. 不要添加原文没有的产品能力、价格和数据
 ```
 
-`hreflang`、canonical 和多语言 URL 的技术配置，会在国际化 SEO 章节继续展开。
+多语言 URL 结构可以参考第 7 章，`hreflang` 和 canonical 的检查与常见问题可以参考第 10 章。
 
 ## 八、On-Page SEO 发布前 Checklist
 

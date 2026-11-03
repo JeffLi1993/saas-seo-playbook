@@ -332,7 +332,7 @@ Slug 不需要为了匹配关键词，把所有变体都写进去。一个页面
 
 但不要一部分翻译、一部分不翻译，又没有任何规则。
 
-`hreflang`、canonical 和多语言 sitemap 的具体配置，会在国际化 SEO 章节展开。
+`hreflang`、canonical 和多语言 sitemap 的检查与常见问题，会在第 10 章 Technical SEO 中展开。
 
 ![图 7-9：多语言 URL 的两种方案](../images/07-09-multilingual-url-options.png)
 
